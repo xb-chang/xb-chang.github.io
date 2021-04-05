@@ -1,0 +1,8 @@
+@inproceedings{lu2016facial,
+  title={Facial skin beautification via sparse representation over learned layer dictionary},
+  author={Lu, Xi and Chang, Xiaobin and Xie, Xiaohua and Hu, Jian-Fang and Zheng, Wei-Shi},
+  booktitle={Neural Networks (IJCNN), 2016 International Joint Conference on},
+  pages={2534--2539},
+  year={2016},
+  organization={IEEE}
+}

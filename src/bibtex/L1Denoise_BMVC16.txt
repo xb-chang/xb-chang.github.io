@@ -1,0 +1,6 @@
+@inproceedings{chang2016l1,
+  title={L1 Graph Based Sparse Model for Label De-noising.},
+  author={Chang, Xiaobin and Xiang, Tao and Hospedales, Timothy M},
+  booktitle={BMVC},
+  year={2016}
+}

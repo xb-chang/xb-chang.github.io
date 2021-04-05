@@ -1,0 +1,7 @@
+@inproceedings{chang2018scalable,
+  title={Scalable and Effective Deep CCA via Soft Decorrelation},
+  author={Chang, Xiaobin and Xiang, Tao and Hospedales, Timothy M},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1488--1497},
+  year={2018}
+}

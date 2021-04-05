@@ -1,0 +1,6 @@
+@article{yu2017devil,
+  title={The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching},
+  author={Yu, Qian and Chang, Xiaobin and Song, Yi-Zhe and Xiang, Tao and Hospedales, Timothy M},
+  journal={arXiv preprint arXiv:1711.08106},
+  year={2017}
+}

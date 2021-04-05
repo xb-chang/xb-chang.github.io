@@ -1,0 +1,6 @@
+@inproceedings{chang2021dpdtw,
+  title={Learning Discriminative Prototypes with Dynamic Time Warping},
+  author={Xiaobin Chang, Frederick Tung, Greg Mori},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2021}
+}

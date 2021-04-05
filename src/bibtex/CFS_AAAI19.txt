@@ -1,0 +1,6 @@
+@inproceedings{chang2019disjoint,
+  title={Disjoint Label Space Transfer Learning with Common Factorised Space},
+  author={Chang, Xiaobin and Yang, Yongxin and Xiang, Tao and Hospedales, Timothy M},
+  booktitle={AAAI},
+  year={2019}
+}

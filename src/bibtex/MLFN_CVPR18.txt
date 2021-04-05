@@ -1,0 +1,8 @@
+@inproceedings{chang2018multi,
+  title={Multi-level factorisation net for person re-identification},
+  author={Chang, Xiaobin and Hospedales, Timothy M and Xiang, Tao},
+  booktitle={CVPR},
+  volume={1},
+  pages={2},
+  year={2018}
+}

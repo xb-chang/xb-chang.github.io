@@ -1,0 +1,9 @@
+@article{chang2015learning,
+  title={Learning person-person interaction in collective activity recognition.},
+  author={Chang, Xiaobin and Zheng, Wei-Shi and Zhang, Jianguo},
+  journal={IEEE Trans. Image Processing},
+  volume={24},
+  number={6},
+  pages={1905--1918},
+  year={2015}
+}
