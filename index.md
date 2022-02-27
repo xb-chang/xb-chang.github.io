@@ -82,9 +82,6 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
    
 
-# Writing <s>Codes</s> Bugs
+# I love BUGs, Really.
 
-```html
-<figure><img src="./img/avatar.jpg" alt="avatar" style="width:50%"><figcaption align = "center"><b>I love BUGs, Really.</b></figcaption></figure>
-```
-
+<img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />
