@@ -13,15 +13,17 @@ welcome: 欢迎浏览常晓斌的主页！Welcome to my homepage！Template from
 - [姬哈(Github)](https://github.com/xb-chang)
 - [Google Scholar](https://scholar.google.com/citations?user=nDS74T4AAAAJ&hl=en)
 
-以下是英文简介:
+<!-- 以下是英文简介: -->
 
 Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [School of Artificial Intelligence](http://sai.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm). He was a postdoc researcher of [Simon Fraser University](https://www.sfu.ca/) and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/). He got Ph.D. degree from [Queen Mary University of London](http://www.qmul.ac.uk/), under the guidance of Professor [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html) and [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/). His Master advisor was Professor [Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/) at Sun Yat-sen University. His research interests including: __Computer Vision__ (e.g., Action Analysis and Representation Learning) & __Machine Learning__ (e.g., Temporal Information Porcessing and Multi-View Problems)
 
 # 消息/News
 
-- 2022年1月 国自然青年基金一项。
-- 2021年9月 欢迎四位硕士研究生：陈修伟、高湛欣、林涛、毋超。
-- 2021年2月 加入中山大学人工智能学院。
+<!-- - _2022/03_ One CVPR paper accepted. Chao (毋超), Congratulation! -->
+
+- _2022/01_ 国自然青年基金一项。
+- _2021/09_ 欢迎四位硕士研究生：陈修伟、高湛欣、林涛、毋超。
+- _2021/02_ 加入中山大学人工智能学院。
 
 # Publications
 
