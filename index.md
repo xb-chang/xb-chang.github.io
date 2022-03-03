@@ -19,8 +19,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [
 
 # 消息/News
 
-<!-- - _2022/03_ One CVPR paper accepted. Chao (毋超), Congratulation! -->
-
+- _2022/03_ One CVPR paper accepted. Chao (毋超), Congratulation!
 - _2022/01_ 国自然青年基金一项。
 - _2021/09_ 欢迎四位硕士研究生：陈修伟、高湛欣、林涛、毋超。
 - _2021/02_ 加入中山大学人工智能学院。
