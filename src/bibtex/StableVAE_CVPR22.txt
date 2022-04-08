@@ -1,0 +1,6 @@
+@article{wu2022camera,
+  title={Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification},
+  author={Wu, Chao and Ge, Wenhang and Wu, Ancong and Chang, Xiaobin},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
+}
