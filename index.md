@@ -28,10 +28,6 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [
 Chao Wu, Wenhang Ge, Ancong Wu, ***Xiaobin Chang\****.
 <span style="color:red">CVPR</span>, 2022. [[PDF](https://arxiv.org/abs/2203.15210)] [[Code](https://github.com/ftd-Wuchao/CCSFG)] [[Bibtex](./src/bibtex/StableVAE_CVPR22.txt)]
 
-**Learning Discriminative Prototypes with Dynamic Time Warping**.
-_**Xiaobin Chang**_, Frederick Tung, Greg Mori.
-<span style="color:red">CVPR</span>, 2021. [[PDF](https://arxiv.org/pdf/2103.09458)] [[Code](https://github.com/BorealisAI/TSC-Disc-Proto)] [[Bibtex](./src/bibtex/DPDTW_CVPR21.txt)]
-
 **Disjoint Label Space Transfer Learning with Common Factorised Space**.
 _**Xiaobin Chang**_, Yongxin Yang, Tao Xiang, Timothy M. Hospedales.
 <span style="color:red">AAAI</span>, 2019. [[PDF](http://arxiv.org/abs/1812.02605)] [[Bibtex](./src/bibtex/CFS_AAAI19.txt)]
