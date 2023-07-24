@@ -17,12 +17,18 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [
 
 # 消息/News
 
+- _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!
+- _2022/09_ 欢迎两位硕士研究生：刘峰、罗涵
 - _2022/03_ One CVPR paper accepted. Chao (毋超), Congratulation!
 - _2022/01_ 国自然青年基金一项。
 - _2021/09_ 欢迎四位硕士研究生：陈修伟、高湛欣、林涛、毋超。
 - _2021/02_ 加入中山大学人工智能学院。
 
 # Publications
+
+**Dynamic Residual Classifier for Class Incremental Learning.**
+Xiuwei Chen, ***Xiaobin Chang\****.
+<span style="color:red">ICCV</span>, 2023. TBA.
 
 **Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification.**
 Chao Wu, Wenhang Ge, Ancong Wu, ***Xiaobin Chang\****.
@@ -76,6 +82,8 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 - [陈修伟](https://chen-xiuwei.github.io/)
 - [林涛](https://lint39.github.io/)
 - 高湛欣
+- [刘峰](https://ader47.github.io/)
+- [罗涵](https://luoh226.github.io/)
 
 # 教学/Teaching
 
@@ -88,3 +96,10 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 # I love BUGs, Really.
 
 <img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />
+
+<img src="./img/text.png" alt="前方高能！魑魅魍魉退散！" style="zoom:12%;" />
+
+- 配色：自古<span style="color:red">红</span><span style="color:lightblue">蓝</span>出CP，<span style="color:lightblue">蓝</span>通难（玩谐音梗还l,n不分，扣分），取知易**行难**，事上磨砺的意思。
+- 字体：“行正道”是用***毛泽东***的字体，他的诗句“人间正道是沧桑”。“做成事”是用***孙中山***的字体，他的遗言“革命尚未成功，同志仍须努力”。
+- 两位大人物的文字同框，讲究！正能量$\rightarrow \infty$.
+
