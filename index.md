@@ -95,11 +95,18 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
 # I love BUGs, Really.
 
-<img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />
+<img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />“*他那时候还太年轻，不知道所有熬的夜，早已在暗中标好了价格。*”
 
-<img src="./img/text.png" alt="前方高能！魑魅魍魉退散！" style="zoom:12%;" />
 
-- 配色：自古<span style="color:red">红</span><span style="color:lightblue">蓝</span>出CP，<span style="color:lightblue">蓝</span>通难（玩谐音梗还l,n不分，扣分），取知易**行难**，事上磨砺的意思。
-- 字体：“行正道”是用***毛泽东***的字体，他的诗句“人间正道是沧桑”。“做成事”是用***孙中山***的字体，他的遗言“革命尚未成功，同志仍须努力”。
-- 两位大人物的文字同框，讲究！正能量$\rightarrow \infty$.
 
+- 以下内容，未成年人可以在家长指导下看，成年人则没必要看。
+- 配色：自古<span style="color:red">红</span><span style="color:lightblue">蓝</span>出CP，<span style="color:lightblue">蓝</span>通难（玩谐音梗还l,n不分，扣分），取知易**行难**，事上磨砺之意。
+- 字体：“行正道”是用***毛泽东***的字体，他的诗句“人间正道是沧桑”。“做成事”是用***孙中山***的字体，他的遗言“革命尚未成功，同志仍须努力”。两位大人物的文字同框，正能量$\rightarrow \infty$，魑魅魍魉退散！
+
+<img src="./img/text.png" alt="拒绝emo！" style="zoom:12%;" />
+
+
+
+
+
+ 
