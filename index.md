@@ -17,18 +17,20 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [
 
 # 消息/News
 
+- _2023/09_ [第三届计图人工智能挑战赛](https://www.educoder.net/competitions/Jittor-4)图片生成赛道**第一名**，刘峰，Well Done!
+- _2023/09_ 欢迎两位硕士研究生：刘璇、姚重任
 - _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!
 - _2022/09_ 欢迎两位硕士研究生：刘峰、罗涵
 - _2022/03_ One CVPR paper accepted. Chao (毋超), Congratulation!
-- _2022/01_ 国自然青年基金一项。
-- _2021/09_ 欢迎四位硕士研究生：陈修伟、高湛欣、林涛、毋超。
-- _2021/02_ 加入中山大学人工智能学院。
+<!-- - _2022/01_ 国自然青年基金一项。 -->
+<!-- - _2021/09_ 欢迎四位硕士研究生：陈修伟、高湛欣、林涛、毋超。 -->
+<!-- - _2021/02_ 加入中山大学人工智能学院。 -->
 
-# Publications
+# Selected Publications
 
 **Dynamic Residual Classifier for Class Incremental Learning.**
 Xiuwei Chen, ***Xiaobin Chang\****.
-<span style="color:red">ICCV</span>, 2023. TBA.
+<span style="color:red">ICCV</span>, 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Dynamic_Residual_Classifier_for_Class_Incremental_Learning_ICCV_2023_paper.pdf)] [[Code](https://github.com/chen-xw/DRC-CIL)] [[Bibtex](./src/bibtex/DRCCIL_ICCV23.txt)]
 
 **Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification.**
 Chao Wu, Wenhang Ge, Ancong Wu, ***Xiaobin Chang\****.
@@ -72,9 +74,10 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
 # 招生
 
-我的研究兴趣是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，但这些都是这两个领域里非常小的一部分。所以我始终对探索新领域保持浓厚的兴趣，希望能与学生一同在学术探讨中不断成长。欢迎各位同学联系和咨询<u>__硕士研究生__</u>相关事宜，也欢迎有意愿<u>__提前进入实验室的本科生__</u>联系。
-
-联系方式：_changxb3\_at\_mail.sysu.edu.cn_；中大珠海校区的同学也可以约在学校面对面交流。
+我的研究兴趣是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，但这些都是这两个领域里非常小的一部分。所以我始终对探索新领域保持浓厚的兴趣。欢迎联系和咨询<u>__硕士研究生__</u>相关事宜，也欢迎有意愿提前进入<u>__本实验室__</u>的本科生联系。
+联系方式：_changxb3\_at\_mail.sysu.edu.cn_；
+<!-- ，希望能与学生一同在学术探讨中不断成长 -->
+<!-- 中大珠海校区的同学也可以约在学校面对面交流。 -->
 
 ## 在读硕士
 
@@ -84,6 +87,8 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 - 高湛欣
 - [刘峰](https://ader47.github.io/)
 - [罗涵](https://luoh226.github.io/)
+- 刘璇
+- 姚重任
 
 # 教学/Teaching
 
@@ -99,11 +104,11 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
 
 
-- 以下内容，未成年人可以在家长指导下看，成年人则没必要看。
-- 配色：自古<span style="color:red">红</span><span style="color:lightblue">蓝</span>出CP，<span style="color:lightblue">蓝</span>通难（玩谐音梗还l,n不分，扣分），取知易**行难**，事上磨砺之意。
-- 字体：“行正道”是用***毛泽东***的字体，他的诗句“人间正道是沧桑”。“做成事”是用***孙中山***的字体，他的遗言“革命尚未成功，同志仍须努力”。两位大人物的文字同框，正能量$\rightarrow \infty$，魑魅魍魉退散！
+<!-- - 以下内容，未成年人可以在家长指导下看，成年人则没必要看。 -->
+<!-- - 配色：自古<span style="color:red">红</span><span style="color:lightblue">蓝</span>出CP，<span style="color:lightblue">蓝</span>通难（玩谐音梗还l,n不分，扣分），取知易**行难**，事上磨砺之意。 -->
+<!-- - 字体：“行正道”是用***毛泽东***的字体，他的诗句“人间正道是沧桑”。“做成事”是用***孙中山***的字体，他的遗言“革命尚未成功，同志仍须努力”。两位大人物的文字同框，正能量$\rightarrow \infty$，魑魅魍魉退散！ -->
 
-<img src="./img/text.png" alt="拒绝emo！" style="zoom:12%;" />
+<!-- <img src="./img/text.png" alt="拒绝emo！" style="zoom:12%;" /> -->
 
 
 

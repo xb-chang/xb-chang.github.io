@@ -1,0 +1,7 @@
+@inproceedings{chen2023dynamic,
+  title={Dynamic Residual Classifier for Class Incremental Learning},
+  author={Chen, Xiuwei and Chang, Xiaobin},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={18743--18752},
+  year={2023}
+}
