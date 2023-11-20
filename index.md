@@ -87,7 +87,7 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 - 高湛欣
 - [刘峰](https://ader47.github.io/)
 - [罗涵](https://luoh226.github.io/)
-- 刘璇
+- [刘璇](https://scarlet0703.github.io)
 - 姚重任
 
 # 教学/Teaching
