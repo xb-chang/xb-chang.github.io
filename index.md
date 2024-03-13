@@ -16,7 +16,7 @@ welcome: 欢迎浏览常晓斌的主页！Welcome to my homepage！Template from
 Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [School of Artificial Intelligence](http://sai.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm). He was a postdoc researcher of [Simon Fraser University](https://www.sfu.ca/) and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/). He got Ph.D. degree from [Queen Mary University of London](http://www.qmul.ac.uk/), under the guidance of Professor [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html) and [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/). His Master advisor was Professor [Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/) at Sun Yat-sen University. His research interests including: __Computer Vision__ (e.g., Action Analysis and Representation Learning) & __Machine Learning__ (e.g., Temporal Information Porcessing and Multi-View Problems)
 
 # 消息/News
-
+- _2023/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)三位近期中的文章，Well Done!
 - _2023/09_ [第三届计图人工智能挑战赛](https://www.educoder.net/competitions/Jittor-4)图片生成赛道**第一名**，刘峰，Well Done!
 - _2023/09_ 欢迎两位硕士研究生：刘璇、姚重任
 - _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!
@@ -27,6 +27,23 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [
 <!-- - _2021/02_ 加入中山大学人工智能学院。 -->
 
 # Selected Publications
+
+**Consistent Prompting for Rehearsal-Free Continual Learning.**
+Zhanxin Gao, Jun Cen, ***Xiaobin Chang\****.
+<span style="color:red">CVPR</span>, 2024. Coming soon.
+<!-- [[PDF]()] [[Code](https://github.com/Zhanxin-Gao/CPrompt)]  -->
+<!-- [[Bibtex](./src/bibtex/CPrompt_CVPR24.txt)] -->
+
+**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis.**
+Feng Liu, ***Xiaobin Chang\****.
+<span style="color:red">Computational Visual Media Journal (CVMJ)</span>, 2024. Coming soon.
+<!-- [[PDF]()] [[Code](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)]  -->
+<!-- [[Bibtex](./src/bibtex/IIDM_CVMJ24.txt)] -->
+
+**Generalizable Two-Branch Framework for Image Class-Incremental Learning.**
+Chao Wu, ***Xiaobin Chang\****, Ruixuan Wang.
+<span style="color:red">ICASSP</span>, 2024. [[PDF](https://arxiv.org/abs/2402.18086)] [[Code](https://github.com/ftd-Wuchao/G2B)]
+ <!-- [[Bibtex](./src/bibtex/G2B_ICASSP24.txt)] -->
 
 **Dynamic Residual Classifier for Class Incremental Learning.**
 Xiuwei Chen, ***Xiaobin Chang\****.

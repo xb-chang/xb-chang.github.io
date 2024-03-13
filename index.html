@@ -3,8 +3,8 @@
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 
-<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
-.mac-os-11 { --title-bar-height:28px; }
+<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+.mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
 h1, h2, h3, h4, h5 { white-space: pre-wrap; }
 body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
@@ -163,7 +163,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .md-fences-advanced:not(.md-focus) { background: inherit; }
 .typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
 .typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
-.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
 .typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
 @media screen and (max-width: 1024px) {
   .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
@@ -203,6 +203,20 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
 .md-inline-math-container mjx-container { zoom: 0.95; }
 mjx-container { break-inside: avoid; }
+.md-alert.md-alert-note { border-left-color: rgb(9, 105, 218); }
+.md-alert.md-alert-important { border-left-color: rgb(130, 80, 223); }
+.md-alert.md-alert-warning { border-left-color: rgb(154, 103, 0); }
+.md-alert.md-alert-tip { border-left-color: rgb(31, 136, 61); }
+.md-alert.md-alert-caution { border-left-color: rgb(207, 34, 46); }
+.md-alert { padding: 0px 1em; margin-bottom: 16px; color: inherit; border-left: 0.25em solid rgb(0, 0, 0); }
+.md-alert-text-note { color: rgb(9, 105, 218); }
+.md-alert-text-important { color: rgb(130, 80, 223); }
+.md-alert-text-warning { color: rgb(154, 103, 0); }
+.md-alert-text-tip { color: rgb(31, 136, 61); }
+.md-alert-text-caution { color: rgb(207, 34, 46); }
+.md-alert-text { font-size: 0.9rem; font-weight: 700; }
+.md-alert-text svg { fill: currentcolor; position: relative; top: 0.125em; margin-right: 1ch; overflow: visible; }
+.md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
 
 
 :root {
@@ -1385,14 +1399,35 @@ footer.ty-footer {
     display: grid;
   }
 
+.md-alert-text-note {
+    color: rgb(47, 129, 247);
+}
+.md-alert-text-important {
+    color: rgb(163, 113, 247);
+}
+.md-alert-text-warning {
+    color:  rgb(210, 153, 34);
+}
+
 
 </style><title>xb-chang&#39;s home page</title>
 </head>
 <body class='typora-export os-windows'><div class='typora-export-content'>
-<div id='write'  class=''><div class='md-toc' mdtype='toc'><p class="md-toc-content" role="list"><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n3"><a class="md-toc-inner" href="#简介short-bio">简介/Short BIO.</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n13"><a class="md-toc-inner" href="#消息news">消息/News</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n25"><a class="md-toc-inner" href="#selected-publications">Selected Publications</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n37"><a class="md-toc-inner" href="#招生">招生</a></span><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n39"><a class="md-toc-inner" href="#在读硕士">在读硕士</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n57"><a class="md-toc-inner" href="#教学teaching">教学/Teaching</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n64"><a class="md-toc-inner" href="#i-love-bugs-really">I love BUGs, Really.</a></span></p></div><h1 id='简介short-bio'><span>简介/Short BIO.</span></h1><p><span>欢迎来到</span><strong><span>常晓斌</span></strong><span>的主页，他目前在</span><a href='http://www.sysu.edu.cn/cn/index.htm'><span>中山大学</span></a><a href='http://sai.sysu.edu.cn/'><span>人工智能学院</span></a><span>任助理教授。</span></p><ul><li><p><span>电子邮箱(Email)：</span><em><span>changxb3</span><span>_</span><span>at</span><span>_</span><span>mail.sysu.edu.cn</span></em></p></li><li><p><a href='https://github.com/xb-chang'><span>姬哈(Github)</span></a></p></li><li><p><a href='https://scholar.google.com/citations?user=nDS74T4AAAAJ&amp;hl=en'><span>Google Scholar</span></a></p></li></ul><p><span>Welcome! This is </span><strong><span>Xiaobin Chang</span></strong><span>&#39;s Homepage. He is an Assistant Professor at </span><a href='http://sai.sysu.edu.cn/'><span>School of Artificial Intelligence</span></a><span>, </span><a href='http://www.sysu.edu.cn/cn/index.htm'><span>Sun Yat-sen University</span></a><span>. He was a postdoc researcher of </span><a href='https://www.sfu.ca/'><span>Simon Fraser University</span></a><span> and work with Professor </span><a href='https://www.cs.sfu.ca/~mori/'><span>Greg Mori</span></a><span>. He got Ph.D. degree from </span><a href='http://www.qmul.ac.uk/'><span>Queen Mary University of London</span></a><span>, under the guidance of Professor </span><a href='http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html'><span>Tao Xiang</span></a><span> and </span><a href='http://homepages.inf.ed.ac.uk/thospeda/'><span>Timothy Hospedales</span></a><span>. His Master advisor was Professor </span><a href='http://isee.sysu.edu.cn/~zhwshi/'><span>Wei-Shi Zheng</span></a><span> at Sun Yat-sen University. His research interests including: </span><strong><span>Computer Vision</span></strong><span> (e.g., Action Analysis and Representation Learning) &amp; </span><strong><span>Machine Learning</span></strong><span> (e.g., Temporal Information Porcessing and Multi-View Problems)</span></p><h1 id='消息news'><span>消息/News</span></h1><ul><li><p><em><span>2023/09</span></em><span> </span><a href='https://www.educoder.net/competitions/Jittor-4'><span>第三届计图人工智能挑战赛</span></a><span>图片生成赛道</span><strong><span>第一名</span></strong><span>，刘峰，Well Done!</span></p></li><li><p><em><span>2023/09</span></em><span> 欢迎两位硕士研究生：刘璇、姚重任</span></p></li><li><p><em><span>2023/07</span></em><span> One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!</span></p></li><li><p><em><span>2022/09</span></em><span> 欢迎两位硕士研究生：刘峰、罗涵</span></p></li><li><p><em><span>2022/03</span></em><span> One CVPR paper accepted. Chao (毋超), Congratulation!</span>
+<div id='write'  class=''><div class='md-toc' mdtype='toc'><p class="md-toc-content" role="list"><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n134"><a class="md-toc-inner" href="#简介short-bio">简介/Short BIO.</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n144"><a class="md-toc-inner" href="#消息news">消息/News</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n158"><a class="md-toc-inner" href="#selected-publications">Selected Publications</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n173"><a class="md-toc-inner" href="#招生">招生</a></span><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n175"><a class="md-toc-inner" href="#在读硕士">在读硕士</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n193"><a class="md-toc-inner" href="#教学teaching">教学/Teaching</a></span><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n200"><a class="md-toc-inner" href="#i-love-bugs-really">I love BUGs, Really.</a></span></p></div><h1 id='简介short-bio'><span>简介/Short BIO.</span></h1><p><span>欢迎来到</span><strong><span>常晓斌</span></strong><span>的主页，他目前在</span><a href='http://www.sysu.edu.cn/cn/index.htm'><span>中山大学</span></a><a href='http://sai.sysu.edu.cn/'><span>人工智能学院</span></a><span>任助理教授。</span></p><ul><li><p><span>电子邮箱(Email)：</span><em><span>changxb3</span><span>_</span><span>at</span><span>_</span><span>mail.sysu.edu.cn</span></em></p></li><li><p><a href='https://github.com/xb-chang'><span>姬哈(Github)</span></a></p></li><li><p><a href='https://scholar.google.com/citations?user=nDS74T4AAAAJ&amp;hl=en'><span>Google Scholar</span></a></p></li></ul><p><span>Welcome! This is </span><strong><span>Xiaobin Chang</span></strong><span>&#39;s Homepage. He is an Assistant Professor at </span><a href='http://sai.sysu.edu.cn/'><span>School of Artificial Intelligence</span></a><span>, </span><a href='http://www.sysu.edu.cn/cn/index.htm'><span>Sun Yat-sen University</span></a><span>. He was a postdoc researcher of </span><a href='https://www.sfu.ca/'><span>Simon Fraser University</span></a><span> and work with Professor </span><a href='https://www.cs.sfu.ca/~mori/'><span>Greg Mori</span></a><span>. He got Ph.D. degree from </span><a href='http://www.qmul.ac.uk/'><span>Queen Mary University of London</span></a><span>, under the guidance of Professor </span><a href='http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html'><span>Tao Xiang</span></a><span> and </span><a href='http://homepages.inf.ed.ac.uk/thospeda/'><span>Timothy Hospedales</span></a><span>. His Master advisor was Professor </span><a href='http://isee.sysu.edu.cn/~zhwshi/'><span>Wei-Shi Zheng</span></a><span> at Sun Yat-sen University. His research interests including: </span><strong><span>Computer Vision</span></strong><span> (e.g., Action Analysis and Representation Learning) &amp; </span><strong><span>Machine Learning</span></strong><span> (e.g., Temporal Information Porcessing and Multi-View Problems)</span></p><h1 id='消息news'><span>消息/News</span></h1><ul><li><p><em><span>2023/03</span></em><span> 恭喜毋超 (ICASSP&#39;24)，刘峰 (CVMJ)，高湛欣 (CVPR&#39;24)三位近期中的文章，Well Done!</span></p></li><li><p><em><span>2023/09</span></em><span> </span><a href='https://www.educoder.net/competitions/Jittor-4'><span>第三届计图人工智能挑战赛</span></a><span>图片生成赛道</span><strong><span>第一名</span></strong><span>，刘峰，Well Done!</span></p></li><li><p><em><span>2023/09</span></em><span> 欢迎两位硕士研究生：刘璇、姚重任</span></p></li><li><p><em><span>2023/07</span></em><span> One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!</span></p></li><li><p><em><span>2022/09</span></em><span> 欢迎两位硕士研究生：刘峰、罗涵</span></p></li><li><p><em><span>2022/03</span></em><span> One CVPR paper accepted. Chao (毋超), Congratulation!</span>
 <!-- - _2022/01_ 国自然青年基金一项。 -->
 <!-- - _2021/09_ 欢迎四位硕士研究生：陈修伟、高湛欣、林涛、毋超。 -->
-<!-- - _2021/02_ 加入中山大学人工智能学院。 --></p></li></ul><h1 id='selected-publications'><span>Selected Publications</span></h1><p><strong><span>Dynamic Residual Classifier for Class Incremental Learning.</span></strong>
+<!-- - _2021/02_ 加入中山大学人工智能学院。 --></p></li></ul><h1 id='selected-publications'><span>Selected Publications</span></h1><p><strong><span>Consistent Prompting for Rehearsal-Free Continual Learning.</span></strong>
+<span>Zhanxin Gao, Jun Cen, </span><em><strong><span>Xiaobin Chang</span><span>*</span></strong></em><span>.</span>
+<span style="color:red"><span>CVPR</span></span><span>, 2024. Coming soon.</span>
+<!-- [[PDF]()] [[Code](https://github.com/Zhanxin-Gao/CPrompt)]  -->
+<!-- [[Bibtex](./src/bibtex/CPrompt_CVPR24.txt)] --></p><p><strong><span>IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis.</span></strong>
+<span>Feng Liu, </span><em><strong><span>Xiaobin Chang</span><span>*</span></strong></em><span>.</span>
+<span style="color:red"><span>Computational Visual Media Journal (CVMJ)</span></span><span>, 2024. Coming soon.</span>
+<!-- [[PDF]()] [[Code](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)]  -->
+<!-- [[Bibtex](./src/bibtex/IIDM_CVMJ24.txt)] --></p><p><strong><span>Generalizable Two-Branch Framework for Image Class-Incremental Learning.</span></strong>
+<span>Chao Wu, </span><em><strong><span>Xiaobin Chang</span><span>*</span></strong></em><span>, Ruixuan Wang.</span>
+<span style="color:red"><span>ICASSP</span></span><span>, 2024. [</span><a href='https://arxiv.org/abs/2402.18086'><span>PDF</span></a><span>] [</span><a href='https://github.com/ftd-Wuchao/G2B'><span>Code</span></a><span>]</span>
+<span> </span><!-- [[Bibtex](./src/bibtex/G2B_ICASSP24.txt)] --></p><p><strong><span>Dynamic Residual Classifier for Class Incremental Learning.</span></strong>
 <span>Xiuwei Chen, </span><em><strong><span>Xiaobin Chang</span><span>*</span></strong></em><span>.</span>
 <span style="color:red"><span>ICCV</span></span><span>, 2023. [</span><a href='https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Dynamic_Residual_Classifier_for_Class_Incremental_Learning_ICCV_2023_paper.pdf'><span>PDF</span></a><span>] [</span><a href='https://github.com/chen-xw/DRC-CIL'><span>Code</span></a><span>] [</span><a href='./src/bibtex/DRCCIL_ICCV23.txt'><span>Bibtex</span></a><span>]</span></p><p><strong><span>Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification.</span></strong>
 <span>Chao Wu, Wenhang Ge, Ancong Wu, </span><em><strong><span>Xiaobin Chang</span><span>*</span></strong></em><span>.</span>
