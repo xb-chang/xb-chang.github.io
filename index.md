@@ -26,7 +26,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Assistant Professor at [
 
 # 招生
 
-我的研究兴趣是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，但这些都是这两个领域里非常小的一部分。所以我始终对探索新领域保持浓厚的兴趣。欢迎联系和咨询<u>__硕士研究生__</u>相关事宜，也欢迎有意愿提前进入<u>__本实验室__</u>的本科生联系。
+我的研究领域主要是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，现在还对[持续学习](https://www.continualai.org/)和AIGC(如[扩散模型](https://en.wikipedia.org/wiki/Diffusion_model))相关研究方向感兴趣。欢迎联系和咨询__硕士研究生__相关事宜，也欢迎有意愿提前进入本实验室的__本科生__联系。
 联系方式：_changxb3\_at\_mail.sysu.edu.cn_；
 
 ## 在读硕士
