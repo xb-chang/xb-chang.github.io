@@ -1,0 +1,6 @@
+@article{wu2024generalizable,
+  title={Generalizable Two-Branch Framework for Image Class-Incremental Learning},
+  author={Wu, Chao and Chang, Xiaobin and Wang, Ruixuan},
+  journal={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2024}
+}

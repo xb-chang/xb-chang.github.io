@@ -1,0 +1,6 @@
+@article{liu2024iidm,
+  title={IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis},
+  author={Liu, Feng and Chang, Xiaobin},
+  booktitle = {Computational Visual Media Journal (CVMJ)},
+  year={2024}
+}

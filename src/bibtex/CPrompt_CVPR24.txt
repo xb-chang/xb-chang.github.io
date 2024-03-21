@@ -1,0 +1,6 @@
+@article{gao2024consistent,
+  title={Consistent Prompting for Rehearsal-Free Continual Learning},
+  author={Gao, Zhanxin and Cen, Jun and Chang, Xiaobin},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
