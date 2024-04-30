@@ -7,7 +7,7 @@ welcome: 欢迎浏览常晓斌的主页！Welcome to my homepage！Template from
 
 # 简介/Short BIO.
 
-欢迎来到**常晓斌**的主页，他目前在[中山大学](http://www.sysu.edu.cn/cn/index.htm)[人工智能学院](http://sai.sysu.edu.cn/)任助理教授。
+欢迎来到**常晓斌**的主页，他目前在[中山大学](http://www.sysu.edu.cn/cn/index.htm)[人工智能学院](http://sai.sysu.edu.cn/)任副教授。
 
 - 电子邮箱(Email)：_changxb3\_at\_mail.sysu.edu.cn_
 - [姬哈(Github)](https://github.com/xb-chang)
