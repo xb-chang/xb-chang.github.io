@@ -17,7 +17,8 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 # 消息/News
 
-- _2023/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)的文章被接收，Well Done!
+- _2024/06_ 恭喜毋超 (优秀毕业生)，高湛欣 (优秀毕业生)，陈修伟，林涛四位硕士生顺利毕业！
+- _2024/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)的文章被接收，Well Done!
 - _2023/09_ [第三届计图人工智能挑战赛](https://www.educoder.net/competitions/Jittor-4)图片生成赛道**第一名**，刘峰，Well Done!
 - _2023/09_ 欢迎两位硕士研究生：刘璇、姚重任
 - _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!
@@ -31,14 +32,17 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 ## 在读硕士
 
-- [毋超](https://ftd-wuchao.github.io/)
-- [陈修伟](https://chen-xiuwei.github.io/)
-- [林涛](https://lint39.github.io/)
-- [高湛欣](https://github.com/Zhanxin-Gao)
 - [刘峰](https://ader47.github.io/)
 - [罗涵](https://luoh226.github.io/)
 - [刘璇](https://scarlet0703.github.io)
 - [姚重任](https://github.com/yzr939)
+
+## 毕业学生
+
+- [毋超](https://ftd-wuchao.github.io/)，阿里巴巴
+- [陈修伟](https://chen-xiuwei.github.io/)，中山大学
+- [林涛](https://lint39.github.io/)，广发证券
+- [高湛欣](https://github.com/Zhanxin-Gao)，西湖大学
 
 # Selected Publications
 
