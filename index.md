@@ -10,24 +10,24 @@ welcome: 欢迎浏览常晓斌的主页！Welcome to my homepage！Template from
 欢迎来到**常晓斌**的主页，他目前在[中山大学](http://www.sysu.edu.cn/cn/index.htm)[人工智能学院](http://sai.sysu.edu.cn/)任副教授。
 
 - 电子邮箱(Email)：_changxb3\_at\_mail.sysu.edu.cn_
-- [姬哈(Github)](https://github.com/xb-chang)
 - [Google Scholar](https://scholar.google.com/citations?user=nDS74T4AAAAJ&hl=en)
+- [姬哈(Github)](https://github.com/xb-chang)
 
 Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [School of Artificial Intelligence](http://sai.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm). He was a postdoc researcher of [Simon Fraser University](https://www.sfu.ca/) and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/). He got Ph.D. degree from [Queen Mary University of London](http://www.qmul.ac.uk/), under the guidance of Professor [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html) and [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/). His Master advisor was Professor [Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/) at Sun Yat-sen University. His research interests including: __Computer Vision__ (e.g., Action Analysis and Representation Learning) & __Machine Learning__ (e.g., Temporal Information Porcessing and Multi-View Problems)
 
 # 消息/News
 
+- _2024/09_ 欢迎两位硕士研究生：吴飞燕，孙源佑
 - _2024/06_ 恭喜毋超 (优秀毕业生)，高湛欣 (优秀毕业生)，陈修伟，林涛四位硕士生顺利毕业！
 - _2024/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)的文章被接收，Well Done!
 - _2023/09_ [第三届计图人工智能挑战赛](https://www.educoder.net/competitions/Jittor-4)图片生成赛道**第一名**，刘峰，Well Done!
 - _2023/09_ 欢迎两位硕士研究生：刘璇、姚重任
 - _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!
 - _2022/09_ 欢迎两位硕士研究生：刘峰、罗涵
-- _2022/03_ One CVPR paper accepted. Chao (毋超), Congratulation!
 
 # 招生
 
-我的研究领域主要是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，现在还对[持续学习](https://www.continualai.org/)和AIGC(如[扩散模型](https://en.wikipedia.org/wiki/Diffusion_model))相关研究方向感兴趣。欢迎联系和咨询__硕士研究生__相关事宜，也欢迎有意愿提前进入本实验室的__本科生__联系。【首选**<span style="color:red">学校邮箱</span>**发信联系，**<span style="color:red">至少</span>**应附上以下材料：**<span style="color:red">成绩单</span>**、**<span style="color:red">外语成绩（包括但不限于英语四六级）</span>**、**<span style="color:red">重要奖项证书</span>**等，供参考。】
+我的研究领域主要是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，现在还对[持续学习](https://www.continualai.org/)和AIGC(如[扩散模型](https://en.wikipedia.org/wiki/Diffusion_model))相关研究方向感兴趣。欢迎联系和咨询__硕士研究生__相关事宜，也欢迎有意愿提前进入本实验室的__本科生__联系。【请首选**<span style="color:red">学校邮箱</span>**发信联系，**<span style="color:red">至少</span>**应附上以下材料：**<span style="color:red">成绩单</span>**、**<span style="color:red">外语成绩（包括但不限于英语四六级）</span>**、**<span style="color:red">重要奖项证书</span>**等，供参考。】
 联系方式：_changxb3\_at\_mail.sysu.edu.cn_；
 
 ## 在读硕士
@@ -36,6 +36,8 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 - [罗涵](https://luoh226.github.io/)
 - [刘璇](https://scarlet0703.github.io)
 - [姚重任](https://github.com/yzr939)
+- [吴飞燕](./index.html)
+- [孙源佑](./index.html)
 
 ## 毕业学生
 
@@ -108,9 +110,13 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
 2. 机器学习/Machine Learning（研究生课程）
 
-# I love BUGs, Really.
+# 感悟
 
-<img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />“*他那时候还太年轻，不知道所有熬的夜，早已在暗中标好了价格。*”
+”以人为镜“--《旧唐书·*魏徵*传》 
+
+<!-- # I love BUGs, Really. -->
+
+<!-- <img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />“*他那时候还太年轻，不知道所有熬的夜，早已在暗中标好了价格。*” -->
 
 
 
