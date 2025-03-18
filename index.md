@@ -17,6 +17,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 # 消息/News
 
+- _2025/03_ 恭喜刘璇(CVPR'25)的文章被接收，Well Done!
 - _2024/09_ 欢迎两位硕士研究生：吴飞燕，孙源佑
 - _2024/06_ 恭喜毋超 (优秀毕业生)，高湛欣 (优秀毕业生)，陈修伟，林涛四位硕士生顺利毕业！
 - _2024/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)的文章被接收，Well Done!
@@ -44,9 +45,13 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 - [毋超](https://ftd-wuchao.github.io/)，阿里巴巴
 - [陈修伟](https://chen-xiuwei.github.io/)，中山大学
 - [林涛](https://lint39.github.io/)，广发证券
-- [高湛欣](https://github.com/Zhanxin-Gao)，西湖大学
+- [高湛欣](https://github.com/Zhanxin-Gao)，南京大学
 
 # Selected Publications
+
+**LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.**
+Xuan Liu, ***Xiaobin Chang\****.
+<span style="color:red">CVPR</span>, 2025. (*To Appear*)
 
 **Consistent Prompting for Rehearsal-Free Continual Learning.**
 Zhanxin Gao, Jun Cen, ***Xiaobin Chang\****.
