@@ -1,0 +1,6 @@
+@inproceedings{liu2025lora,
+  title={LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning},
+  author={Liu, Xuan and Chang, Xiaobin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025}
+}

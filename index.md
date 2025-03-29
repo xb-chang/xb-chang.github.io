@@ -51,7 +51,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 **LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.**
 Xuan Liu, ***Xiaobin Chang\****.
-<span style="color:red">CVPR</span>, 2025. (*To Appear*)
+<span style="color:red">CVPR</span>, 2025. [[PDF](https://arxiv.org/abs/2503.18985)] [[Code](https://github.com/scarlet0703/LoRA-Sub-DRS)] [[Bibtex](./src/bibtex/LORASUB_CVPR25.txt)]
 
 **Consistent Prompting for Rehearsal-Free Continual Learning.**
 Zhanxin Gao, Jun Cen, ***Xiaobin Chang\****.
