@@ -33,8 +33,6 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 ## 在读硕士
 
-- [刘峰](https://ader47.github.io/)
-- [罗涵](https://luoh226.github.io/)
 - [刘璇](https://scarlet0703.github.io)
 - [姚重任](https://github.com/yzr939)
 - [吴飞燕](./index.html)
@@ -42,6 +40,8 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 ## 毕业学生
 
+- [刘峰](https://ader47.github.io/)，华为
+- [罗涵](https://luoh226.github.io/)，华为
 - [毋超](https://ftd-wuchao.github.io/)，阿里巴巴
 - [陈修伟](https://chen-xiuwei.github.io/)，中山大学
 - [林涛](https://lint39.github.io/)，广发证券
@@ -51,19 +51,19 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 **LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.**
 Xuan Liu, ***Xiaobin Chang\****.
-<span style="color:red">CVPR</span>, 2025. [[PDF](https://arxiv.org/abs/2503.18985)] [[Code](https://github.com/scarlet0703/LoRA-Sub-DRS)] [[Bibtex](./src/bibtex/LORASUB_CVPR25.txt)]
-
-**Consistent Prompting for Rehearsal-Free Continual Learning.**
-Zhanxin Gao, Jun Cen, ***Xiaobin Chang\****.
-<span style="color:red">CVPR</span>, 2024. [[PDF](https://arxiv.org/abs/2403.08568)] [[Code](https://github.com/Zhanxin-Gao/CPrompt)] [[Bibtex](./src/bibtex/CPrompt_CVPR24.txt)]
+<span style="color:red">CVPR</span>, 2025.06 [[PDF](https://arxiv.org/abs/2503.18985)] [[Code](https://github.com/scarlet0703/LoRA-Sub-DRS)] [[Bibtex](./src/bibtex/LORASUB_CVPR25.txt)]
 
 **IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis.**
 Feng Liu, ***Xiaobin Chang\****.
-<span style="color:red">Computational Visual Media Journal (CVMJ)</span>, 2024. [[PDF](https://arxiv.org/abs/2403.13378)] [[Code](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)] [[Bibtex](./src/bibtex/IIDM_CVMJ24.txt)]
+<span style="color:red">Computational Visual Media Journal (CVMJ)</span>, 2025.05 [[PDF](https://www.sciopen.com/article/10.26599/CVM.2025.9450419)] [[Code](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)] [[Bibtex](./src/bibtex/IIDM_CVMJ24.txt)]
+
+**Consistent Prompting for Rehearsal-Free Continual Learning.**
+Zhanxin Gao, Jun Cen, ***Xiaobin Chang\****.
+<span style="color:red">CVPR</span>, 2024.06 [[PDF](https://arxiv.org/abs/2403.08568)] [[Code](https://github.com/Zhanxin-Gao/CPrompt)] [[Bibtex](./src/bibtex/CPrompt_CVPR24.txt)]
 
 **Generalizable Two-Branch Framework for Image Class-Incremental Learning.**
 Chao Wu, ***Xiaobin Chang\****, Ruixuan Wang.
-<span style="color:red">ICASSP</span>, 2024. [[PDF](https://arxiv.org/abs/2402.18086)] [[Code](https://github.com/ftd-Wuchao/G2B)] [[Bibtex](./src/bibtex/G2B_ICASSP24.txt)]
+<span style="color:red">ICASSP</span>, 2024.04 [[PDF](https://arxiv.org/abs/2402.18086)] [[Code](https://github.com/ftd-Wuchao/G2B)] [[Bibtex](./src/bibtex/G2B_ICASSP24.txt)]
 
 **Dynamic Residual Classifier for Class Incremental Learning.**
 Xiuwei Chen, ***Xiaobin Chang\****.
