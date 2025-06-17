@@ -55,7 +55,7 @@ Xuan Liu, ***Xiaobin Chang\****.
 
 **IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis.**
 Feng Liu, ***Xiaobin Chang\****.
-<span style="color:red">Computational Visual Media Journal (CVMJ)</span>, 2025.05 [[PDF](https://www.sciopen.com/article/10.26599/CVM.2025.9450419)] [[Code](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)] [[Bibtex](./src/bibtex/IIDM_CVMJ24.txt)]
+<span style="color:red">Computational Visual Media (CVM)</span>, 2025.05 [[PDF](https://www.sciopen.com/article/10.26599/CVM.2025.9450419)] [[Code](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)] [[Bibtex](./src/bibtex/IIDM_CVMJ24.txt)]
 
 **Consistent Prompting for Rehearsal-Free Continual Learning.**
 Zhanxin Gao, Jun Cen, ***Xiaobin Chang\****.
