@@ -28,7 +28,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 # 招生
 
-我的研究领域主要是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，现在还对[持续学习](https://www.continualai.org/)和AIGC(如[扩散模型](https://en.wikipedia.org/wiki/Diffusion_model))相关研究方向感兴趣。欢迎联系和咨询__硕士研究生__相关事宜。有意愿提前进入本实验室的<span style="color:red">__本科生__**最佳联系时间：大二下学期结束(暑假前)；暑假有意愿留校者优先考虑**</span>。【请首选**<span style="color:red">学校邮箱</span>**发信联系，**<span style="color:red">至少</span>**应附上以下材料：**<span style="color:red">成绩单</span>**、**<span style="color:red">外语成绩（包括但不限于英语四六级）</span>**、**<span style="color:red">重要奖项证书</span>**等，供参考。】
+我的研究领域主要是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，现在还对[持续学习](https://www.continualai.org/)和AIGC(如[扩散模型](https://en.wikipedia.org/wiki/Diffusion_model))相关研究方向感兴趣。欢迎联系和咨询__硕士研究生__相关事宜。有意愿提前进入本实验室的**本科生最佳联系时间：大二下学期结束(暑假前)；暑假有意愿留校者优先考虑**。【请首选**<span style="color:red">学校邮箱</span>**发信联系，**<span style="color:red">至少</span>**应附上以下材料：**<span style="color:red">成绩单</span>**、**<span style="color:red">外语成绩（包括但不限于英语四六级）</span>**、**<span style="color:red">重要奖项证书</span>**等，供参考。】
 联系方式：_changxb3\_at\_mail.sysu.edu.cn_；
 
 ## 在读硕士
