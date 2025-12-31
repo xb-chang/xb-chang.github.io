@@ -24,9 +24,6 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 - _2024/06_ 恭喜毋超 (优秀毕业生)，高湛欣 (优秀毕业生)，陈修伟，林涛四位硕士生顺利毕业！
 - _2024/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)的文章被接收，Well Done!
 - _2023/09_ [第三届计图人工智能挑战赛](https://www.educoder.net/competitions/Jittor-4)图片生成赛道**第一名**，刘峰，Well Done!
-<!-- - _2023/09_ 欢迎两位硕士研究生：刘璇、姚重任 -->
-<!-- - _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation! -->
-<!-- - _2022/09_ 欢迎两位硕士研究生：刘峰、罗涵 -->
 
 # 招生
 
@@ -121,8 +118,6 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
 # 感悟
 
-”以人为镜“--《旧唐书·*魏徵*传》 
+”以人为镜“--《旧唐书·*魏徵*传》;
 
-<!-- # I love BUGs, Really. -->
-
-<!-- <img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />“*他那时候还太年轻，不知道所有熬的夜，�
+”自知者明，自胜者强“--《道经·三十三》 
