@@ -17,6 +17,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 # 消息/News
 
+- _2026/01_ 获批国自然面上项目
 - _2025/03_ 恭喜刘璇(CVPR'25)的文章被接收，Well Done!
 - _2024/09_ 欢迎两位硕士研究生：吴飞燕，孙源佑
 - _2024/06_ 恭喜毋超 (优秀毕业生)，高湛欣 (优秀毕业生)，陈修伟，林涛四位硕士生顺利毕业！
