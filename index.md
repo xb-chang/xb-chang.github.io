@@ -18,14 +18,15 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 # 消息/News
 
 - _2026/01_ 获批国自然面上项目
+- _2025/09_ 欢迎两位硕士研究生：吴笛，郝骏
 - _2025/03_ 恭喜刘璇(CVPR'25)的文章被接收，Well Done!
 - _2024/09_ 欢迎两位硕士研究生：吴飞燕，孙源佑
 - _2024/06_ 恭喜毋超 (优秀毕业生)，高湛欣 (优秀毕业生)，陈修伟，林涛四位硕士生顺利毕业！
 - _2024/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)的文章被接收，Well Done!
 - _2023/09_ [第三届计图人工智能挑战赛](https://www.educoder.net/competitions/Jittor-4)图片生成赛道**第一名**，刘峰，Well Done!
-- _2023/09_ 欢迎两位硕士研究生：刘璇、姚重任
-- _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation!
-- _2022/09_ 欢迎两位硕士研究生：刘峰、罗涵
+<!-- - _2023/09_ 欢迎两位硕士研究生：刘璇、姚重任 -->
+<!-- - _2023/07_ One ICCV paper accepted. Xiuwei (陈修伟), Congratulation! -->
+<!-- - _2022/09_ 欢迎两位硕士研究生：刘峰、罗涵 -->
 
 # 招生
 
@@ -38,6 +39,8 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 - [姚重任](https://github.com/yzr939)
 - [吴飞燕](./index.html)
 - [孙源佑](./index.html)
+- [吴笛](./index.html)
+- [郝骏](./index.html)
 
 ## 毕业学生
 
@@ -122,9 +125,4 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
 <!-- # I love BUGs, Really. -->
 
-<!-- <img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />“*他那时候还太年轻，不知道所有熬的夜，早已在暗中标好了价格。*” -->
-
-
-
-
-
+<!-- <img src="./img/avatar.jpg" alt="Ahh, Bugs!!" style="zoom:50%;" />“*他那时候还太年轻，不知道所有熬的夜，�
