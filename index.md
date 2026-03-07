@@ -17,6 +17,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 # 消息/News
 
+- _2026/03_ 恭喜刘璇(CVPR'26)的文章被接收，Well Done!
 - _2026/01_ 获批国自然面上项目
 - _2025/09_ 欢迎两位硕士研究生：吴笛，郝骏
 - _2025/03_ 恭喜刘璇(CVPR'25)的文章被接收，Well Done!
@@ -49,6 +50,10 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 - [高湛欣](https://github.com/Zhanxin-Gao)，南京大学
 
 # Selected Publications
+
+**Elastic Weight Consolidation Done Right for Continual Learning.**
+Xuan Liu, ***Xiaobin Chang\****.
+<span style="color:red">CVPR</span>, 2026
 
 **LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.**
 Xuan Liu, ***Xiaobin Chang\****.
