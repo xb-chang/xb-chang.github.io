@@ -1,0 +1,6 @@
+@inproceedings{liu2026elastic,
+  title={Elastic Weight Consolidation Done Right for Continual Learning},
+  author={Liu, Xuan and Chang, Xiaobin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2026}
+}

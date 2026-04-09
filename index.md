@@ -53,7 +53,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 **Elastic Weight Consolidation Done Right for Continual Learning.**
 Xuan Liu, ***Xiaobin Chang\****.
-<span style="color:red">CVPR</span>, 2026
+<span style="color:red">CVPR</span>, 2026 [[PDF](https://arxiv.org/abs/2603.18596)] [[Code](https://github.com/scarlet0703/EWC-DR)] [[Bibtex](./src/bibtex/EWCDR_CVPR26.txt)]
 
 **LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.**
 Xuan Liu, ***Xiaobin Chang\****.
@@ -120,6 +120,8 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 1. 离散数学/Discrete Math （本科课程）
 
 2. 机器学习/Machine Learning（研究生课程）
+
+3. 人工智能基础与应用（研究生公选课）
 
 # 感悟
 
