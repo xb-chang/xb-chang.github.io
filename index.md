@@ -7,13 +7,13 @@ welcome: 欢迎浏览常晓斌的主页！Welcome to my homepage！Template from
 
 # 简介/Short BIO.
 
-欢迎来到**常晓斌**的主页，他目前在[中山大学](http://www.sysu.edu.cn/cn/index.htm)[人工智能学院](http://sai.sysu.edu.cn/)任副教授。
+欢迎来到**常晓斌**的主页，他目前在[中山大学人工智能学院](https://sai.sysu.edu.cn/teacher/227)任副教授，博导。
 
 - 电子邮箱(Email)：_changxb3\_at\_mail.sysu.edu.cn_
 - [Google Scholar](https://scholar.google.com/citations?user=nDS74T4AAAAJ&hl=en)
 - [姬哈(Github)](https://github.com/xb-chang)
 
-Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [School of Artificial Intelligence](http://sai.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm). He was a postdoc researcher of [Simon Fraser University](https://www.sfu.ca/) and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/). He got Ph.D. degree from [Queen Mary University of London](http://www.qmul.ac.uk/), under the guidance of Professor [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html) and [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/). His Master advisor was Professor [Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/) at Sun Yat-sen University. His research interests including: __Computer Vision__ (e.g., Action Analysis and Representation Learning) & __Machine Learning__ (e.g., Temporal Information Porcessing and Multi-View Problems)
+Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [School of Artificial Intelligence](http://sai.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm). He was a postdoc researcher of [Simon Fraser University](https://www.sfu.ca/) and work with Professor [Greg Mori](https://www.cs.sfu.ca/~mori/). He got Ph.D. degree from [Queen Mary University of London](http://www.qmul.ac.uk/), under the guidance of Professor [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html) and [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/). His Master advisor was Professor [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/) at Sun Yat-sen University. His research interests including: __Computer Vision__ (e.g., Action Analysis and Representation Learning) & __Machine Learning__ (e.g., Temporal Information Porcessing and Multi-View Problems)
 
 # 消息/News
 
@@ -22,19 +22,15 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 - _2025/09_ 欢迎两位硕士研究生：吴笛，郝骏
 - _2025/03_ 恭喜刘璇(CVPR'25)的文章被接收，Well Done!
 - _2024/09_ 欢迎两位硕士研究生：吴飞燕，孙源佑
-- _2024/06_ 恭喜毋超 (优秀毕业生)，高湛欣 (优秀毕业生)，陈修伟，林涛四位硕士生顺利毕业！
-- _2024/03_ 恭喜毋超 (ICASSP'24)，刘峰 (CVMJ)，高湛欣 (CVPR'24)的文章被接收，Well Done!
-- _2023/09_ [第三届计图人工智能挑战赛](https://www.educoder.net/competitions/Jittor-4)图片生成赛道**第一名**，刘峰，Well Done!
 
 # 招生
 
-我的研究领域主要是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，现在还对[持续学习](https://www.continualai.org/)和AIGC(如[扩散模型](https://en.wikipedia.org/wiki/Diffusion_model))相关研究方向感兴趣。欢迎联系和咨询__硕士研究生__相关事宜。有意愿提前进入本实验室的**本科生最佳联系时间：大二下学期结束(暑假前)；暑假有意愿留校者优先考虑**。【请首选**<span style="color:red">学校邮箱</span>**发信联系，**<span style="color:red">至少</span>**应附上以下材料：**<span style="color:red">成绩单</span>**、**<span style="color:red">外语成绩（包括但不限于英语四六级）</span>**、**<span style="color:red">重要奖项证书</span>**等，供参考。】
-联系方式：_changxb3\_at\_mail.sysu.edu.cn_；
+我的研究领域主要是[计算机视觉(Computer Vision)](https://en.wikipedia.org/wiki/Computervision)和[机器学习(Machine Learning)](https://en.wikipedia.org/wiki/Machine_learning)，过往的研究侧重于利用机器学习的方法来分析图像中的人物及其相关信息，现在还对[持续学习](https://www.continualai.org/)、AIGC(如[扩散模型](https://en.wikipedia.org/wiki/Diffusion_model))和具身智能（For 博士生）相关研究方向感兴趣。欢迎联系和咨询__硕/博士研究生__相关事宜。【**发信联系**<span style="color:red">至少</span>**应附上以下材料：**<span style="color:red">成绩单</span>**、**<span style="color:red">外语成绩（包括但不限于英语四六级）</span>**、**<span style="color:red">重要奖项证书</span>等，供参考。】
+博士生招收计划：1. *机器学习与计算机视觉方向*：请通过我的邮箱联系；2. *具身智能方向*：请通过邮箱**同时联系**[郑伟诗教授](https://www.isee-ai.cn/~zhwshi/)和我。
 
 ## 在读硕士
 
-- [刘璇](https://scarlet0703.github.io)
-- [姚重任](https://github.com/yzr939)
+- [黄义彬](./index.html)
 - [吴飞燕](./index.html)
 - [孙源佑](./index.html)
 - [吴笛](./index.html)
@@ -42,6 +38,8 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 ## 毕业学生
 
+- [刘璇](https://scarlet0703.github.io)，小红书
+- [姚重任](https://github.com/yzr939)，国家电网
 - [刘峰](https://ader47.github.io/)，华为
 - [罗涵](https://luoh226.github.io/)，华为
 - [毋超](https://ftd-wuchao.github.io/)，阿里巴巴
@@ -53,7 +51,7 @@ Welcome! This is **Xiaobin Chang**'s Homepage. He is an Associate Professor at [
 
 **Elastic Weight Consolidation Done Right for Continual Learning.**
 Xuan Liu, ***Xiaobin Chang\****.
-<span style="color:red">CVPR</span>, 2026
+<span style="color:red">CVPR</span>, 2026 [[PDF](https://arxiv.org/abs/2603.18596)] [[Code](https://github.com/scarlet0703/EWC-DR)] [[Bibtex](./src/bibtex/EWCDR_CVPR26.txt)]
 
 **LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.**
 Xuan Liu, ***Xiaobin Chang\****.
