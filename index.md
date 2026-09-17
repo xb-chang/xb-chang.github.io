@@ -119,6 +119,8 @@ _**Xiaobin Chang**_, Wei-Shi Zheng, Jianguo Zhang.
 
 2. 机器学习/Machine Learning（研究生课程）
 
+3. 人工智能基础与应用（研究生公选课）
+
 # 感悟
 
 ”以人为镜“--《旧唐书·*魏徵*传》;
